@@ -1,6 +1,6 @@
 ### Olá Me Chamo Mateus Andrade 👋
 
-- 💻 Estou atualmente estudando logica de programação com portugol
+- 💻 Estou atualmente estudando logica de programação no VisualG
 - 🤓 Sei um pouco de HTML e CSS (nada muito dificil por enquanto)
 - 😄 Tenho vontade de aprender varias linguagens e ser desenvolvedor fullstack
 
