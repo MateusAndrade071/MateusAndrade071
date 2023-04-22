@@ -1,10 +1,10 @@
 ## Olá eu sou Mateus Andrade, seja bem vindo a meu perfil!
 
-<b> atualmente estudando logica de programação. </b>
+<b>Atualmente estudando logica de programação. </b>
 <br/>
-<b> sei um pouco de HTML E CSS </b>
+<b>Sei um pouco de HTML E CSS. </b>
 <br/>
-<b> e indo em busca de aprender mais sobre o mundo de programação </b>
+<b>Indo em busca de aprender mais sobre o mundo de programação! </b>
 
 <div style="display: inline_block"><br>
  
