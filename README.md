@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil sou Mateus Andrade
 
-<h2>Estou estudando no momento Lógica de programação junto com HTML, CSS e Js.</h2>
+<b>Estou estudando no momento Lógica de programação junto com HTML, CSS e Js.</b>
 
  <div>
    <a href="https://github.com/MateusSanfer">
